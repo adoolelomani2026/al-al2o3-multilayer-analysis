@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+.DS_Store
+Thumbs.db
+
+# Extra generated artifacts are intentionally ignored.
+outputs/**/*.csv
+outputs/**/*.svg
+outputs/**/*.pdf
+outputs/**/*_raw*.png
+outputs/**/cl_spectrum_ev_counts.png
+outputs/**/pl_offband_publication.png
