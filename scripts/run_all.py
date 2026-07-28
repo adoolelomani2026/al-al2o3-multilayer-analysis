@@ -10,6 +10,7 @@ SCRIPTS = [
     "analyze_uvvis.py",
     "analyze_cl.py",
     "analyze_pl.py",
+    "analyze_emt.py",
 ]
 
 
