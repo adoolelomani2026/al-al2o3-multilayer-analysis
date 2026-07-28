@@ -12,6 +12,8 @@ Thumbs.db
 outputs/**/*.csv
 outputs/**/*.svg
 outputs/**/*.pdf
+!outputs/eels/eels_uv_assessment.pdf
+!outputs/emt/emt_tensor_estimate.pdf
 outputs/**/*_raw*.png
 outputs/**/cl_spectrum_ev_counts.png
 outputs/**/pl_offband_publication.png
